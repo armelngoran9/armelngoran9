@@ -1,5 +1,5 @@
 
-Ce projet réalisé par des étudiants en Informatique parcours MIAGE à l'Université de Rennes 1 - ISTIC à savoir :
+Ce projet réalisé par des étudiants en L3 Informatique parcours MIAGE à l'Université de Rennes 1 - ISTIC à savoir :
 
 
 - N’GORAN N’DA KOUAME ARMEL
